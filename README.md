@@ -1,6 +1,6 @@
 # Описание
 
-Здесь лежит код для Google Apps Script. Он необходим для получения данных из репозитория [stalcraft-database](https://github.com/EXBO-Studio/stalcraft-database) . Можете использовать мои алгоритмы запросов для создания собственных запросов к базе данных.
+Здесь лежит код для Google Apps Script. Он необходим для получения данных из репозитория [stalcraft-database](https://github.com/EXBO-Studio/stalcraft-database). Можете использовать мои алгоритмы запросов для создания собственных запросов к базе данных.
 
 # Установка
 
